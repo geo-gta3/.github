@@ -12,3 +12,4 @@
 * [gxt-editor](https://github.com/geo-gta3/gxt-editor) - JavaFX-ზე დაწერილი GTA III-ის *.gxt ფაილების რედაქტორი;
 * [geo-gta3](https://github.com/geo-gta3/geo-gta3) - თამაშის გაქართულებისთვის განკუთვნილი modloader-ის ფაილები;
 * [blog](https://github.com/geo-gta3/blog) - ბლოგი, სადაც დაიდება სიახლეები და გადმოსაწერი ლინკი; 
+* [gxt-compiler](https://github.com/geo-gta3/gxt-compiler) - GEO GTA III-ის *.gxt ფაილის გენერატორი;

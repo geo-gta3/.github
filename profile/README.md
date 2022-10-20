@@ -13,3 +13,5 @@
 * [geo-gta3](https://github.com/geo-gta3/geo-gta3) - თამაშის გაქართულებისთვის განკუთვნილი modloader-ის ფაილები;
 * [blog](https://github.com/geo-gta3/blog) - ბლოგი, სადაც დაიდება სიახლეები და გადმოსაწერი ლინკი; 
 * [gxt-compiler](https://github.com/geo-gta3/gxt-compiler) - GEO GTA III-ის *.gxt ფაილის გენერატორი;
+
+<img src="https://raw.githubusercontent.com/geo-gta3/.github/main/Project-Previews.png" style="width:100%;"/>

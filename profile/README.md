@@ -14,4 +14,4 @@
 * [blog](https://github.com/geo-gta3/blog) - ბლოგი, სადაც დაიდება სიახლეები და გადმოსაწერი ლინკი; 
 * [gxt-compiler](https://github.com/geo-gta3/gxt-compiler) - GEO GTA III-ის *.gxt ფაილის გენერატორი;
 
-<img src="https://raw.githubusercontent.com/geo-gta3/.github/main/Project-Previews.png" style="max-width: 100%; height: auto; box-shadow: 0 .5rem 1rem rgba(0,0,0,.15); box-sizing: border-box;"/>
+<img src="https://raw.githubusercontent.com/geo-gta3/.github/main/Project-Previews.png" style="max-width: 100%;"/>

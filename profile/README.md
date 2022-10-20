@@ -5,8 +5,6 @@
 
 პროექტის ვებგვერდი: https://geo-gta3.github.io/blog
 
-დამატებიტი ინფორმაცია და პროექტები დაემატება ახლო მომავალში.
-
 პროექტები:
 * [gxt](https://github.com/geo-gta3/gxt) - ბიბლიოთეკა GTA III-ის *.gxt ფაილებთან სამუშაოდ;
 * [gxt-editor](https://github.com/geo-gta3/gxt-editor) - JavaFX-ზე დაწერილი GTA III-ის *.gxt ფაილების რედაქტორი;

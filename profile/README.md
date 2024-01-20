@@ -9,6 +9,7 @@
 * [gxt](https://github.com/geo-gta3/gxt) - ბიბლიოთეკა GTA III-ის *.gxt ფაილებთან სამუშაოდ;
 * [gxt-editor](https://github.com/geo-gta3/gxt-editor) - JavaFX-ზე დაწერილი GTA III-ის *.gxt ფაილების რედაქტორი;
 * [geo-gta3](https://github.com/geo-gta3/geo-gta3) - თამაშის გაქართულებისთვის განკუთვნილი modloader-ის ფაილები;
+* [translation](https://github.com/geo-gta3/translation) - Cowdin-ის პროექტისთვის განკუთვნილი რეპო გაქართულებული ტექსტით (Crowdin Project: https://crowdin.com/project/geo-gta3);
 * [blog](https://github.com/geo-gta3/blog) - ბლოგი, სადაც დაიდება სიახლეები და გადმოსაწერი ლინკი; 
 * [gxt-compiler](https://github.com/geo-gta3/gxt-compiler) - GEO GTA III-ის *.gxt ფაილის გენერატორი;
 
